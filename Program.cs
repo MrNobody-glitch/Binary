@@ -1,4 +1,5 @@
-﻿while (true)
+﻿
+while (true)
 {
     Console.WriteLine("Welcome to the Decimal and Binary Converter!");
     Console.WriteLine("Press 1 to convert a decimal number to binary.");
